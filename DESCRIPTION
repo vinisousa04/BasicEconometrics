@@ -1,0 +1,13 @@
+Package: BasicEconometrics
+Type: Package
+Title: A companion to a first course on Econometrics
+Version: 0.1.0
+Author: Vinicius M. de Sousa
+Maintainer: Vinicius M. de Sousa <sousavini04@hotmail.com>
+Description: This package was developded during the 2017 autumn semester based
+              upon the module EC4307 at the University of Limerick. (remembe to
+              update the description at the end)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
